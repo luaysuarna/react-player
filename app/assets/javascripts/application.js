@@ -13,6 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require waitme/waitMe
 //
 //  Helpers
 //  ------------------------------------------------------------------------------
@@ -31,6 +32,7 @@
 //  Initializers Plugin
 //  ------------------------------------------------------------------------------
 //= require initializers/alt
+//= require initializers/waitMe
 //
 //  React Code
 //  ------------------------------------------------------------------------------
